@@ -26,7 +26,7 @@ def header(menu=True):
      ╚══╝╚══╝  ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝   
                                                   
     """)))
-        print(f'{Fore.WHITE} Developped By {Fore.CYAN}zKaiioZ {Fore.WHITE} & {Fore.RED}Cat.Sh'.center(60))
+        print(f'{Fore.WHITE} Developped By {Fore.CYAN}zKaiioZ {Fore.WHITE} & {Fore.RED}Shyybi'.center(60))
         
         if menu:
             print(Colorate.Vertical(Colors.cyan_to_blue,"""
