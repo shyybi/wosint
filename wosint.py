@@ -36,7 +36,6 @@ def header(menu=True):
             4 - Whois DNS 
             5 - Ports Scanner
             6 - Href Finder
-            7 - Hash Broker
             ! - Quit
                   """))
             a = input("[ ] Choose an option : ")
